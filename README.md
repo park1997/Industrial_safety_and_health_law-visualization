@@ -67,7 +67,7 @@ df_info
 
 <img width="548" alt="스크린샷 2021-11-09 오후 1 50 56" src="https://user-images.githubusercontent.com/73048180/140864394-fbe651d9-5049-44a2-b0da-98a425638c19.png">
 
-3. 워드 임베딩(Word Embedding)
+2. 워드 임베딩(Word Embedding)
 - CountVector
 - TF-IDF(Term Frequency-Inverse Document Frequency)
 - Word2Vec
@@ -85,7 +85,7 @@ Cosine Similarity은 계산도 용이하고, 각 벡터 간의 쌍대비교로 �
 
 ### 4. 유사조항 네트워크 시각화
 Algorithm은 TF-IDF를 사용함.
-- TF-IDF는 법령 측성 상 자주 반복되는 단어의 가중치를 최대한 줄이기 위하여 사용하였음
+- TF-IDF는 법령 특성 상 자주 반복되는 단어의 가중치를 최대한 줄이기 위하여 사용하였음
 - 각 조항들간 유사도를 Cosine Similarity를 바탕으로 네트워크로 연결
 
 아래 그림은 안전보건 관련 법령 간 유사 관계를 나타내는 네트워크이다.
