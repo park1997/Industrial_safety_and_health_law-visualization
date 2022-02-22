@@ -1,6 +1,6 @@
 # 산업안전보건법 보편적 이해를 위한 법령 시각화 연구 (A study on the visualization of laws for universal understanding of the Occupational Safety and Health Act.)
 ## Project 
-산업안전보건법 보편적 이해를 위한 법령 시각화 연구를 위한 유사조항 네트워크 시각화 분석
+산업안전보건법 보편적 이해와 법령 시각화 연구를 위한 유사조항 네트워크 시각화 분석
 
 ## Packages
 1. Doc2Vec
